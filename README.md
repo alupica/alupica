@@ -1,3 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alupica"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=alupica&theme=algolia&show_icons=true)](https://github.com/alupica)
+| <a href="https://github.com/a.lupica/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alupica&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="alupica's github stats" /></a> | <a href="https://github.com/alupica/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alupica&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
